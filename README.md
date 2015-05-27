@@ -1,2 +1,2 @@
-# templates
-My templates
+# My templates
+My coding templates.
